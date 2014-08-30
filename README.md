@@ -1,3 +1,6 @@
-### Generative Art With Processing
+#Generative Art with Processing
 
-I wanted to start getting to know the basics of Processing so have begun a short course on Generative Art. This involved video lectures, coding whilst watching and short projects after. This repo contains my lesson work. Project work will be placed in individual repos.
+These snippets of code are my workings based on the lectures given for Generative Art with Processing.  The main aim of the lectures if to get to know the Processing library and try things for yourself. 
+
+More info on Processing is [here](https://www.processing.org/).
+
